@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UniLend/contracts"
+    "url": "https://github.com/UniLend/smart-contracts"
   },
   "author": "Unilend Team <dev@unilend.finance>",
   "license": "MIT",
