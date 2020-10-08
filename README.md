@@ -9,6 +9,6 @@ Token Details:
 The UFT token is a standard token implementing the [ERC20](https://eips.ethereum.org/EIPS/eip-20) interface.
 
 ## Run ganache before runing tests
-$ npm run testrpc
+$ `npm run testrpc`
 
-Test:  $ npm run truffle:test
+Test:  $ `npm run truffle:test`
