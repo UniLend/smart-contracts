@@ -76,7 +76,7 @@ module.exports = {
     }
   },
   verify: {
-    preamble: 'UniLend Token (UFT) contracts'
+    preamble: 'UniLend Finance Token (UFT)'
   },
   api_keys: {
     etherscan: ETHERSCAN_API_KEY
