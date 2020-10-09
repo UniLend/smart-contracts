@@ -41,7 +41,7 @@ contract UniLendTokenVesting is Ownable {
 
     constructor(IERC20 _token) public {
         require(address(_token) != address(0x0), "UniLendToken address is not valid");
-        address unlockAddress = 0x34B28Dc3458a4eaC42Cdef7ed95F48d50DB21eE7;
+        address unlockAddress = 0x6874fF15B5116A4C0552e70fE4d1Ed293E5F5B14;
         UniLendToken = _token;
         uint256 SCALING_FACTOR = 10 ** 18; // decimals
         uint256 day = 1 days;
