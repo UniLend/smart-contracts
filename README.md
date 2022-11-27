@@ -8,7 +8,17 @@ Token Details:
 
 The UFT token is a standard token implementing the [ERC20](https://eips.ethereum.org/EIPS/eip-20) interface.
 
-## Run ganache before runing tests
-$ `npm run testrpc`
+### Environment variables
 
-Test:  $ `npm run truffle:test`
+Copy `.env.sample` to `.env` 
+
+
+## Run ganache before runing tests
+```bash
+npm run testrpc
+```
+
+### Test
+```bash
+npm run truffle:test
+```
